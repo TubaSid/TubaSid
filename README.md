@@ -2,7 +2,7 @@
 
 I see you 👀
 <h2 align="center">Heyy, this is Tuba Siddiqui. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">I am a Data Science Enthusiast who is learning UI for side hustle🐱‍👤</p>
+<p align="center">I am a Data Science Enthusiast who is learning UI Designing for side hustle🐱‍👤</p>
 
 🎈 How to reach me:
 📧 **tubazamansiddiqui@gmail.com** 
