@@ -5,6 +5,7 @@ I see you 👀
 <p align="center">I am a Data Science Enthusiast🐱‍👤</p>
 
 🎈 Read my articles on medium:
+<br>
 <a href="https://medium.com/@tubasid/"><img height="30" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"></a></p>
 <br>
 <br>
