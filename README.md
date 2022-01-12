@@ -2,13 +2,13 @@
 
 I see you 👀
 <h2 align="center">Heyy, this is Tuba Siddiqui. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">I am a Data Science Enthusiast who is learning UI Designing for side hustle🐱‍👤</p>
+<p align="center">I am a Data Science Enthusiast🐱‍👤</p>
 
 🎈 How to reach me:
 📧 **tubazamansiddiqui@gmail.com** 
 <br>
 <br>
- 🐱‍💻 Languages I know as of now: 
+ 🐱‍💻 Languages I know: 
  
 <img align="left" height="20" src="https://www.clipartmax.com/png/small/166-1666865_algoholic-a-coders-blog-matlab-icon-png.png">
 <img align="left" height="20" src="https://www.clipartmax.com/png/middle/479-4795970_for-python-programming-language.png">
