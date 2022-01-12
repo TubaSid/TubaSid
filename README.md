@@ -4,6 +4,11 @@ I see you 👀
 <h2 align="center">Heyy, this is Tuba Siddiqui. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center">I am a Data Science Enthusiast🐱‍👤</p>
 
+🎈 Read my articles on medium:
+<a href="https://medium.com/@tubasid"><img height="30" src="https://mpng.subpng.com/20180410/vxw/kisspng-medium-logo-blog-publishing-bagel-5acd46756f8af6.0878199815234023574569.jpg"></a></p>
+<br>
+<br>
+
 🎈 How to reach me:
 📧 **tubazamansiddiqui@gmail.com** 
 <br>
