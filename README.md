@@ -14,9 +14,9 @@ I see you 👀
 <br>
  🐱‍💻 Languages I know: 
  
-<img align="left" height="20" src="https://postimg.cc/G8JWpSTG">
-<img align="left" height="20" src="https://postimg.cc/5YJxpRhk">
-<img align="left" height="20" src="https://postimg.cc/sBrdRZTM">
+<img align="left" height="20" src="https://i.postimg.cc/sXtswkV6/Png-Item-10424.png">
+<img align="left" height="20" src="https://i.postimg.cc/85Jjk8tD/7-2-python-logo-free-download-png.png">
+<img align="left" height="20" src="https://i.postimg.cc/25qzhQv7/c-logo-icon-28389.png">
 <br />
 <br />
 
