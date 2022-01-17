@@ -35,5 +35,5 @@ I see you 👀
 </p>
 <p align="center">My goal is to provide more food to this one</p>
 <p align="center">
- <a href="https://twitter.com/Tubaasid"><img height="30" src="https://w7.pngwing.com/pngs/708/311/png-transparent-icon-logo-twitter-logo-twitter-logo-blue-social-media-area-thumbnail.png"></a>&nbsp;&nbsp; 
+ <a href="https://twitter.com/Tubaasid"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdyckmanfarmhouse.org%2Ffor-front-page-2%2Finstagram-red-social%2F&psig=AOvVaw3kgIiNTm_7TtsZxtsW9qLl&ust=1642503820409000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD4oNzRuPUCFQAAAAAdAAAAABAb"></a>&nbsp;&nbsp; 
  <a href="https://www.linkedin.com/in/TubaSid/"><img height="30" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"></a></p>
