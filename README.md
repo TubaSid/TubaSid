@@ -14,9 +14,9 @@ I see you 👀
 <br>
  🐱‍💻 Languages I know: 
  
-<img align="left" height="20" src="https://www.clipartmax.com/png/small/166-1666865_algoholic-a-coders-blog-matlab-icon-png.png">
-<img align="left" height="20" src="https://www.clipartmax.com/png/middle/479-4795970_for-python-programming-language.png">
-<img align="left" height="20" src="https://www.clipartmax.com/png/small/240-2409409_c-programming-icon-c-programming-language-icon.png">
+<img align="left" height="20" src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png">
+<img align="left" height="20" src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg">
+<img align="left" height="20" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png">
 <br />
 <br />
 
