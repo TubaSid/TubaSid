@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TubaSid&label=Visitors%20&color=0e75b6&style=flat" alt="TubaSid" /> </p>
 
 I see you 👀
-<h2 align="center">Heyy, this is Tuba Siddiqui. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Heyy, this is Tuba Siddiqui.👋</h2>
 <p align="center">I am a Data Science Enthusiast🐱‍👤</p>
 
 🎈 Read my articles on medium:
