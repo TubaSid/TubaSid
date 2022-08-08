@@ -30,10 +30,10 @@ I see you 👀
 <p href="https://github.com/TubaSid/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TubaSid&layout=compact&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github.com/TubaSid/TubaSid/blob/main/github-user-contribution.svg" alt="snake"></center>
-</p>
 <p align="center">My goal is to provide more food to this one</p>
 <p align="center">
  <a href="https://twitter.com/Tubaasid"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXTPw9OH-WlG8NqyUBYijdEirR-lmuRjk_Q&usqp=CAU"></a>&nbsp;&nbsp; 
  <a href="https://www.linkedin.com/in/TubaSid/"><img height="30" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0010_linkedin.png"></a></p>
+ <p align="center">
+ <img src=https://github.com/samadpls/TubaSid/blob/output/github-contribution-grid-snake.svg alt="snake"></center>
+ </p>
