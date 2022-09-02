@@ -1,3 +1,4 @@
+<img src='.github/workflows/dino.gif' width=100% height='205'/>
 <h1 align="center">Hi 👋, I'm Tuba Siddiqui, commonly called Tee 🐱‍👤</h1>
 <h3 align="center">Just a kid exploring the world of Data Science like all other enthusiasts.🙌</h3>
 
