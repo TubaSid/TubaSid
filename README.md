@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Tuba%20Siddiqui!&fontSize=50&height=100&width=100%&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Tuba%20Siddiqui!&fontSize=50&height=150&width=100%&section=header"/>
 </p>
 <h1 align="center">Hi 👋, I'm Tuba Siddiqui, commonly called Tee 🐱‍👤</h1>
 <h3 align="center">Just a kid exploring the world of Data Science like all other enthusiasts.🙌</h3>
