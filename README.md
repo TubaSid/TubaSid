@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tubasid&label=Profile%20views&color=9e8cb1&style=flat" alt="tubasid" /> </p>
 
 <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.cyclic.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 
 - 🌱 I’m currently self-learning to become a **R Data Analyst.**
 
