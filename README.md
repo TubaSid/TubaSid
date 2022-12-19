@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, PowerBI and riddles. 🤞**
 
-- 📫 How to reach me **tubazamansiddiqui@gmail.com**
+- 📫 How to reach me **tubaasid@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tubasid/](https://www.linkedin.com/in/tubasid/)
 
