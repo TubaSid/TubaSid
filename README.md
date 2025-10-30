@@ -30,7 +30,7 @@ I’ve worked at **Fastweb (Italy)** and **HBL (Pakistan)** building data tools,
 ### 🚀 What I’m Brewing (Few of them)
 | 👀 | Project | Essence |
 |:--:|:--|:--|
-| 🧠 | **Fetal Brain Anomaly Detection (Master Thesis)** | Deep-learning segmentation with Attention U-Net + Grad-CAM to assist anomaly screening |
+| 🧠 | **Semantic Segmentation of Key Fetal Brain Structures in Trans-Thalamic Ultrasound Images Using Deep Learning (Master Thesis)** | Deep-learning segmentation with Attention U-Net + Grad-CAM to assist anomaly screening |
 | 🚦 | **VisionRoad (Bachelor Thesis)** | YOLOv3 + Raspberry Pi for adaptive traffic light control [🔗 bit.ly/visionroad](https://bit.ly/visionroad) |
 | 🎙️ | **Voice Recognition System** | MATLAB-based DSP pipeline for speaker ID [🔗 bit.ly/voicerecognitionsystem](https://bit.ly/voicerecognitionsystem) |
 | 🧩 | **Address Data Cleaning Tool** | Streamlit + RapidFuzz for fuzzy matching and postal validation |
