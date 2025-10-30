@@ -1,75 +1,67 @@
+<div align="center">
+
+<h1>✨ Tuba Siddiqui</h1>
+<h3>Building intelligent systems, one chai at a time ☕</h3>
+
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Tuba%20Siddiqui&fontSize=45&height=150&section=header"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&duration=2500&color=9E8CB1&center=true&vCenter=true&multiline=true&height=60&width=600&lines=Data+Scientist+%C2%B7+AI+Automation+Learner;Aspiring+Solution+Architect"
+    alt="typing"
+  />
 </p>
 
-<h1 align="center">👋 Hi, I'm Tuba Siddiqui</h1>
-<h3 align="center">Data Scientist | AI Automation Learner | Aspiring Solution Architect</h3>
+---
 
+
+### 🧩 Who I Am
+Hi, I’m **Tuba Siddiqui**, people usually call me TeeSid, or just Tee. I am a Data Scientist who’s gradually moving from *models* to *systems*.  
+My world currently revolves around:
+- 🧠 Designing **AI workflows** that connect LLMs, APIs and logic  
+- ⚙️ Exploring **solution architecture** for scalable AI products  
+- 🪄 Automating repetitive intelligence through **LangChain**, **n8n** and **FastAPI**  
+
+Graduated 🎓 from *Sapienza University of Rome* with a Master’s in Data Science,  
+I’ve worked at **Fastweb (Italy)** and **HBL (Pakistan)** building data tools, dashboards and automation prototypes.
+
+---
+
+### 🚀 What I’m Brewing (Few of them)
+| 👀 | Project | Essence |
+|:--:|:--|:--|
+| 🧠 | **Fetal Brain Anomaly Detection (Master Thesis)** | Deep-learning segmentation with Attention U-Net + Grad-CAM to assist anomaly screening |
+| 🚦 | **VisionRoad (Bachelor Thesis)** | YOLOv3 + Raspberry Pi for adaptive traffic light control [🔗 bit.ly/visionroad](https://bit.ly/visionroad) |
+| 🎙️ | **Voice Recognition System** | MATLAB-based DSP pipeline for speaker ID [🔗 bit.ly/voicerecognitionsystem](https://bit.ly/voicerecognitionsystem) |
+| 🧩 | **Address Data Cleaning Tool** | Streamlit + RapidFuzz for fuzzy matching and postal validation |
+
+---
+
+### ⚡ Tech Stack
+`Python` · `R` · `PyTorch` · `TensorFlow` · `LangChain` · `FastAPI` · `Streamlit`  
+`Docker` · `AWS` · `PowerBI` · `OpenCV` · `Pinecone` · `Qdrant`  
+
+---
+
+### 🎯 My 2025 Focus
+- Architect small-scale **AI automation systems** that actually deploy  
+- Write **tech + thought** pieces on system design for young builders  
+- Blend **data science with architecture thinking**  
+- Stay curious enough to break my own code (and then fix it better)
+
+---
+
+### 🧭 Motto
+AI is an orchestra and data is its melody, un’armonia d’immaginazione.
+
+---
+
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=tubasid&label=Profile%20views&color=9e8cb1&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=tubasid&label=Profile%20views&color=9e8cb1&style=flat" alt="profile views"/>
-  </a>
-</p>
-
----
-
-### 🚀 Now Building
-Currently learning how to design **AI-driven automation systems** by connecting  
-**LLMs, APIs, and workflows** using tools like **LangChain**, **n8n**, and **FastAPI**.  
-Focusing on building small projects that demonstrate **reasoning, data flow, and orchestration**.  
-
----
-
-### 🧭 About Me
-- 🎓 Graduated with **M.Sc. in Data Science** from *Sapienza University of Rome*  
-- 💡 Exploring **AI automation**, **LLM orchestration**, and **solution architecture**  
-- 🧠 Interested in creating **modular intelligent systems** that merge logic, automation, and real-world use  
-- 💼 Experienced in **data analysis**, **architecture documentation**, and **AI prototype development**  
-- ⚙️ Believer in learning by building — one workflow at a time  
-
----
-
-### 🧩 What I’m Learning
-- **AI System Design** – blueprints, integration layers, and automation logic  
-- **LangChain & n8n** – connecting LLMs, APIs, and databases  
-- **FastAPI** – serving and routing model endpoints  
-- **Vector Databases** – semantic retrieval with Pinecone and Qdrant  
-- **Docker & GitHub Actions** – reproducible builds and deployment automation  
-
----
-
-### 🧠 Academic Work
-**Master’s Thesis:** *Automated Detection of Fetal Brain Anomalies using Semantic Segmentation*  
-- Built a **U-Net segmentation pipeline** for fetal brain structures on 3,800+ ultrasound images  
-- Optimized with **attention modules**, **focal + Dice hybrid loss**, and **Grad-CAM** visualization  
-- Focused on interpretability and lightweight deployment for early anomaly screening  
-
----
-
-### ⚙️ Technical Stack
-**Languages:** Python, R, C/C++, MATLAB  
-**AI/ML:** PyTorch, TensorFlow, scikit-learn, OpenCV  
-**Automation Tools:** LangChain, n8n (learning), FastAPI, Streamlit  
-**Cloud & DevOps:** Docker, GitHub Actions, AWS (EC2, S3, RDS)  
-**Databases:** MySQL, PostgreSQL, Pinecone, Qdrant  
-**Visualization:** PowerBI, Matplotlib, Seaborn  
-
----
-
-### 📈 Goals for 2025
-- Build a **personal AI workflow agent** for document understanding  
-- Learn **end-to-end system design** for production-level AI apps  
-- Contribute to **open-source AI automation tools**  
-- Share insights through **Medium** and **GitHub learning logs**
-
----
-
-### 🌐 Connect
-<p align="left">
-<a href="https://linkedin.com/in/tubasid" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="https://kaggle.com/tubasiddiqui" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
-<a href="https://medium.com/@tubasid" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/></a>
-<a href="https://twitter.com/tubaasid" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/tubasid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@tubasid"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://kaggle.com/tubasiddiqui"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://twitter.com/tubaasid"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 📫 **tubaasid@gmail.com**  
@@ -77,8 +69,7 @@ Focusing on building small projects that demonstrate **reasoning, data flow, and
 
 ---
 
-### 📊 GitHub Overview
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tubasid&show_icons=true&theme=dark&text_color=ffffff&bg_color=9e8cb1&hide_border=true&locale=en&layout=compact" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tubasid&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=9e8cb1&hide_border=true&locale=en" width="45%" />
+  <sub>☕ Sipping chai, brewing logic, con un tocco d’intelligenza.</sub>
 </div>
+
