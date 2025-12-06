@@ -27,12 +27,14 @@ I’ve worked at **Fastweb (Italy)** and **HBL (Pakistan)** building data tools,
 
 ---
 
-### 🚀 What I’m Brewing (Few of them)
-| 👀 | Project | Essence |
+### 🚀 What I’m Brewing (A Few of Them)
+| 🤌 | Project | Essence |
 |:--:|:--|:--|
+| ❤️ | **Khayal** | An AI Journaling & Reflection Assistant: A conversational agent designed for daily check-ins, emotional reflection, and habit tracking, integrated with WhatsApp and backed by LLM tools, memory, and automation flows. |
+| 👀 | **Feedback Collector** | AI Feedback Collector (n8n + Gemini), which is an end-to-end automated system that captures user feedback, cleans it, tags themes, and generates summaries using LLM-powered workflows. [🔗 FeedbackCollector](https://medium.com/@tubasid/the-feedback-collector-that-thinks-d86006e04614) |
 | 🧠 | **Semantic Segmentation of Key Fetal Brain Structures in Trans-Thalamic Ultrasound Images Using Deep Learning (Master Thesis)** | Deep-learning segmentation with Attention U-Net + Grad-CAM to assist anomaly screening |
-| 🚦 | **VisionRoad (Bachelor Thesis)** | YOLOv3 + Raspberry Pi for adaptive traffic light control [🔗 bit.ly/visionroad](https://bit.ly/visionroad) |
-| 🎙️ | **Voice Recognition System** | MATLAB-based DSP pipeline for speaker ID [🔗 bit.ly/voicerecognitionsystem](https://bit.ly/voicerecognitionsystem) |
+| 🚦 | **VisionRoad (Bachelor Thesis)** | YOLOv3 + Raspberry Pi for adaptive traffic light control [🔗VisionRoad](https://bit.ly/visionroad) |
+| 🎙️ | **Voice Recognition System** | MATLAB-based DSP pipeline for speaker ID [🔗VoiceRecognitionSystem](https://bit.ly/voicerecognitionsystem) |
 | 🧩 | **Address Data Cleaning Tool** | Streamlit + RapidFuzz for fuzzy matching and postal validation |
 
 ---
