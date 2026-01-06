@@ -1,77 +1,189 @@
 <div align="center">
 
-<h1>✨ Tuba Siddiqui</h1>
-<h3>Building intelligent systems, one chai at a time ☕</h3>
+# Tuba Siddiqui
+
+*where data meets intent and systems learn to think*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&duration=3500&color=9E8CB1&center=true&vCenter=true&multiline=true&height=100&lines=not+just+using+AI;understanding+it;building+it+from+scratch;measuring+what+matters" alt="typing"/>
 
 </div>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&duration=2500&color=9E8CB1&center=true&vCenter=true&multiline=true&height=60&width=600&lines=Data+Scientist+%C2%B7+AI+Automation+Learner;Aspiring+Solution+Architect"
-    alt="typing"
-  />
-</p>
+---
+
+## The Journey
+
+Most people use frameworks. I'm learning to build them.  
+Most people read papers. I'm implementing them.  
+Most people know what works. I'm discovering why.
+
+This is a **self learning journey** into the architecture of intelligence itself. From the mathematics of attention to the pragmatics of production. From transformer implementations in NumPy to RAG systems that ship.
+
+**Credentials**: MSc Data Science @ Sapienza University of Rome  
+**Experience**: Production systems @ Fastweb (Italy) & HBL (Pakistan)  
+**Philosophy**: Every abstraction hides a lesson. Every framework makes assumptions. Know both.
 
 ---
 
+## What I Build
 
-### 🧩 Who I Am
-Hi, I’m **Tuba Siddiqui**, people usually call me TeeSid, or just Tee. I am a Data Scientist who’s gradually moving from *models* to *systems*.  
-My world currently revolves around:
-- 🧠 Designing **AI workflows** that connect LLMs, APIs and logic  
-- ⚙️ Exploring **solution architecture** for scalable AI products  
-- 🪄 Automating repetitive intelligence through **LangChain**, **n8n** and **FastAPI**  
+### **Khayal** — *memory as conversation*
+An AI companion that remembers. Integrated with WhatsApp for daily reflections, emotional check ins, habit tracking. Not just responding but understanding continuity.
 
-Graduated 🎓 from *Sapienza University of Rome* with a Master’s in Data Science,  
-I’ve worked at **Fastweb (Italy)** and **HBL (Pakistan)** building data tools, dashboards and automation prototypes.
+*Stack: FastAPI • WhatsApp API • Vector Memory*
+[Read how it thinks](https://medium.com/@tubasid/i-built-a-production-mental-health-app-in-2-weeks-with-ai-95-code-generated-100-human-judgment-c14d7b31d5a4)
 
----
+### **Feedback Collector** — *signal from noise*
+Automated intelligence that captures scattered feedback, finds patterns, generates summaries. The system that thinks about what users think.
 
-### 🚀 What I’m Brewing (A Few of Them)
-| 🤌 | Project | Essence |
-|:--:|:--|:--|
-| ❤️ | **Khayal** | An AI Journaling & Reflection Assistant: A conversational agent designed for daily check-ins, emotional reflection, and habit tracking, integrated with WhatsApp and backed by LLM tools, memory, and automation flows. |
-| 👀 | **Feedback Collector** | AI Feedback Collector (n8n + Gemini), which is an end-to-end automated system that captures user feedback, cleans it, tags themes, and generates summaries using LLM-powered workflows. [🔗 FeedbackCollector](https://medium.com/@tubasid/the-feedback-collector-that-thinks-d86006e04614) |
-| 🧠 | **Semantic Segmentation of Key Fetal Brain Structures in Trans-Thalamic Ultrasound Images Using Deep Learning (Master Thesis)** | Deep-learning segmentation with Attention U-Net + Grad-CAM to assist anomaly screening |
-| 🚦 | **VisionRoad (Bachelor Thesis)** | YOLOv3 + Raspberry Pi for adaptive traffic light control [🔗VisionRoad](https://bit.ly/visionroad) |
-| 🎙️ | **Voice Recognition System** | MATLAB-based DSP pipeline for speaker ID [🔗VoiceRecognitionSystem](https://bit.ly/voicerecognitionsystem) |
-| 🧩 | **Address Data Cleaning Tool** | Streamlit + RapidFuzz for fuzzy matching and postal validation |
+*Stack: n8n • Gemini • Workflow Orchestration*
+
+[Read how it thinks](https://medium.com/@tubasid/the-feedback-collector-that-thinks-d86006e04614)
 
 ---
 
-### ⚡ Tech Stack
-`Python` · `R` · `PyTorch` · `TensorFlow` · `LangChain` · `FastAPI` · `Streamlit`  
-`Docker` · `AWS` · `PowerBI` · `OpenCV` · `Pinecone` · `Qdrant`  
+## Current Learning Arc
+
+**Currently inside**: "Attention Is All You Need" (Vaswani et al.)  
+Implementing every component from scratch. No tutorials. Just math, paper, and NumPy.
+
+**Also reading**:
+- GPT-3 paper (architecture evolution)
+- RAG paper (Lewis et al., 2020)
+- LLaMA technical report (understanding what changed)
+
+**This month's experiments**:
+- ✓ Self-attention mechanism (50 lines, pure NumPy)
+- ⟳ Building RAG without frameworks (5 different approaches)
+- → Comparing LangChain vs pure implementations
 
 ---
 
-### 🎯 My 2025 Focus
-- Architect small-scale **AI automation systems** that actually deploy  
-- Write **tech + thought** pieces on system design for young builders  
-- Blend **data science with architecture thinking**  
-- Stay curious enough to break my own code (and then fix it better)
+## Recent Thoughts
+
+**Latest writing**: [The Feedback Collector That Thinks](https://medium.com/@tubasid/the-feedback-collector-that-thinks-d86006e04614)  
+*On building systems that understand user intent without human intervention*
+
+**What broke recently**: Discovered my RAG was confidently hallucinating because chunking strategy was too naive. Fixed with semantic splitting and reranking. Latency increased 40% but accuracy improved 60%. Worth it.
+
+**Current question**: When do frameworks actually help vs just hide complexity? Building 5 RAG implementations to answer with data.
 
 ---
 
-### 🧭 Motto
-AI is an orchestra and data is its melody, un’armonia d’immaginazione.
+## Learning Metrics
+
+```
+Papers implemented from scratch        → 3
+RAG systems built this month           → 2 (working on 3 more)
+Lines of attention code written        → ~847
+Failed experiments documented          → 12
+Production tradeoffs measured          → cost • latency • accuracy
+```
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/tubasid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@tubasid"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://kaggle.com/tubasiddiqui"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://twitter.com/tubaasid"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+## What I've Studied
 
-📫 **tubaasid@gmail.com**  
-🌍 **[Portfolio](https://bit.ly/tubasid)**  
+**Fetal Brain Structure Segmentation** • *Master's Thesis*  
+Attention U-Net meets Grad-CAM. Deep learning for medical anomaly detection in ultrasound imagery.  
+[→ Repository](https://github.com/TubaSid/fetal-brain-structure-segmentation)
+
+**VisionRoad** • *Bachelor's Engineering Thesis*  
+YOLOv3 and Raspberry Pi teaching traffic lights to adapt.  
+[→ Project](https://bit.ly/visionroad)
+
+**Voice Recognition System**  
+MATLAB, DSP, and the mathematics of identifying speakers.  
+[→ Details](https://bit.ly/voicerecognitionsystem)
+
+**Address Data Cleaning Tool**  
+Fuzzy matching and postal validation. Making messy data make sense.
+
+---
+
+## The Craft
+
+**Languages**: Python • R • MATLAB  
+**Learning**: PyTorch • TensorFlow • NumPy • FAISS  
+**Building**: FastAPI • Streamlit • Docker  
+**Deploying**: AWS • n8n workflows  
+**Exploring**: OpenAI • Anthropic • Groq  
+**Analyzing**: PowerBI • OpenCV
+
+---
+
+## Collaboration
+
+**Open to discussing**:
+- RAG optimization strategies (chunking, reranking, hybrid search)
+- Production LLM systems (cost vs latency vs accuracy tradeoffs)
+- Building AI systems without heavy frameworks
+- Technical writing about deep learning journeys
+
+**Would love to collaborate on**:
+- Projects that require understanding systems from first principles
+- Building tools for other learners diving deep into AI
+- Writing about the gap between research papers and production
+
+**Best way to reach me**: Email or LinkedIn for thoughtful technical discussions
 
 ---
 
 <div align="center">
-  <sub>☕ Sipping chai, brewing logic, con un tocco d’intelligenza.</sub>
-</div>
 
+### *un'armonia d'immaginazione*
+
+AI is an orchestra. Data is its melody. Architecture is the score we compose.
+
+---
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**STUDY**  
+papers deeply  
+code completely
+
+</td>
+<td align="center" width="25%">
+
+**BUILD**  
+systems carefully  
+production ready
+
+</td>
+<td align="center" width="25%">
+
+**MEASURE**  
+performance precisely  
+tradeoffs honestly
+
+</td>
+<td align="center" width="25%">
+
+**DOCUMENT**  
+learnings clearly  
+mistakes openly
+
+</td>
+</tr>
+</table>
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tubasid)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@tubasid)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/tubasiddiqui)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tubaasid)
+
+**tubaasid@gmail.com** • [portfolio](https://bit.ly/tubasid)
+
+---
+
+*sipping chai • building systems • learning deeply*
+
+![views](https://komarev.com/ghpvc/?username=tubasid&color=blueviolet&style=flat-square)
+
+</div>
